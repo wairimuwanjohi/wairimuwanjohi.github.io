@@ -18,10 +18,8 @@ title: Wairimu Wanjohi # the main title
 
 tagline: "Cybersecurity Analyst | NOC Engineer | Cloud Security | Software Developer" # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-Cybersecurity analyst and networking enthusiast with a background in Computer Security & Forensics. Experienced in network configuration, security labs, and web development, with a strong interest in SOC operations, NOC environments, and cloud security.
-I enjoy building practical, security-focused projects and continuously developing skills in threat detection, system hardening, and secure infrastructure.
-Currently seeking entry-level opportunities, internships, or collaborations where I can contribute, learn, and grow within cybersecurity and cloud-driven environments.
+description: > # used by seo meta and the atom feed
+Cybersecurity analyst portfolio
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
