@@ -21,7 +21,7 @@ Analyzed captured network traffic to identify suspicious activity and indicators
 - Identified malicious communication patterns
 - Documented findings and mitigation steps
 
-**Read full write-up:** [View Project](/posts/network-traffic-analysis/)
+**Read full write-up:** [View Project](/posts/htb-network-traffic-analysis/)
 
 ## Secure WLAN Deployment & Configuration
 
