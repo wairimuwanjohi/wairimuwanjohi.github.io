@@ -13,6 +13,7 @@ timezone: Africa/Nairobi
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
+profile: 
 image: /assets/Cybersec.jpg
 title: Wairimu Wanjohi # the main title
 
