@@ -2,7 +2,6 @@
 layout: home
 title: "Welcome"
 ---
-
 # Hi, I’m Wairimu Wanjohi
 **Cybersecurity Analyst | NOC Engineer | Cloud Security | Software Developer**
 
