@@ -75,3 +75,6 @@ Feb 2023 – Aug 2023
   
 ## Professional Interests
 I am particularly interested in defensive cybersecurity, CTF challenges, secure network infrastructure, and cloud security. I enjoy hands-on learning and solving real-world security problems through practical exercises.
+
+**Download my CV:**
+[Download My Resume](/assets/Winfred_Wairimu_CV.pdf)
