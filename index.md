@@ -30,7 +30,7 @@ Contact Me
 
 </div>
 
-</div>
+</div><br>
 
 <div style="flex: 1; min-width: 240px; text-align: center;">
 
@@ -73,4 +73,4 @@ Seeking opportunities in cybersecurity operations, network defense, or cloud sec
 
 
 
-*Open to internships, entry-level roles, and collaborative projects.*
+**Open to internships, entry-level roles, and collaborative projects.**
