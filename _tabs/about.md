@@ -35,6 +35,7 @@ I am a cybersecurity analyst and networking enthusiast with a background in Comp
 - HTML/CSS
 ## Work Experience
 **Tree Nursery Assistant — Natural State Research Centre**  
+
 2026 – Present  
 - Managed daily operations and customer interactions
 - Maintained inventory records and organizational systems
@@ -42,7 +43,7 @@ I am a cybersecurity analyst and networking enthusiast with a background in Comp
   
 **Digital Literacy Facilitator — EDCET**
 
-Sept 2024 – Nov 2024
+Sept 2024 – Dec 2024
 - Delivered help desk support for network, hardware, and software issues across Windows environments
 - Installed and configured routers, servers, and user accounts
 - Monitored network uptime and performed basic troubleshooting to maintain system reliability
