@@ -3,7 +3,7 @@ title: About
 icon: fas fa-info-circle
 order: 4
 ---
-
+![About Me](/assets/Cybersec.jpg)
 ## Professional Summary 
 I am a cybersecurity analyst and networking enthusiast with a background in Computer Security & Forensics. My interests include SOC operations, network security, and cloud security, and I enjoy solving real-world security challenges through hands-on labs and projects. I have experience in network configuration, security monitoring concepts, and web development, and I am continuously expanding my skills through practical training and self-directed learning. I am currently seeking entry-level opportunities, internships, or collaborations where I can contribute and grow within cybersecurity-focused environments.
 ## Education
