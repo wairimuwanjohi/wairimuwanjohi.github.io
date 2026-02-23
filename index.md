@@ -1,6 +1,7 @@
 ---
-layout: home
-title: "Welcome"
+layout: page
+title: Home
+permalink: /
 ---
 # Hi, I’m Wairimu Wanjohi
 **Cybersecurity Analyst | NOC Engineer | Cloud Security | Software Developer**
