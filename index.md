@@ -18,15 +18,15 @@ Passionate about blue-team operations, network defense, and real-world cyber cha
 
 <a href="/projects/" style="padding: 10px 18px; background:#2563eb; color:white; border-radius:8px; text-decoration:none; font-weight:600;">
 View Projects
-</a>
+</a><br>
 
 <a href="/assets/Winfred_Wairimu_CV.pdf" style="padding: 10px 18px; margin-left:10px; border:2px solid #2563eb; border-radius:8px; text-decoration:none; font-weight:600;">
 Download CV
-</a>
+</a><br>
 
 <a href="mailto:wwwanjohi56@gmail.com" style="padding: 10px 18px; margin-left:10px; border:2px solid #22c55e; border-radius:8px; text-decoration:none; font-weight:600;">
 Contact Me
-</a>
+</a><br>
 
 </div>
 
@@ -41,7 +41,7 @@ Contact Me
 
 </div>
 
----
+
 
 ## Core Skills
 
@@ -54,7 +54,7 @@ Contact Me
 - Python & Automation  
 - Web Development (HTML/CSS/JS)
 
----
+
 
 ## Featured Work
 
@@ -65,12 +65,12 @@ Contact Me
 
 Explore detailed write-ups in the **Projects** section.
 
----
+
 
 ## Career Objective
 
 Seeking opportunities in cybersecurity operations, network defense, or cloud security where I can protect systems, solve complex problems, and grow into a high-impact security professional.
 
----
+
 
 *Open to internships, entry-level roles, and collaborative projects.*
