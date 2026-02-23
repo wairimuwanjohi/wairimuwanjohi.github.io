@@ -7,7 +7,7 @@ title: "Welcome"
 
 I build secure networks, analyze threats, and develop web solutions.
 
-![Avatar](/assets/images.png)
+![Avatar](/assets/images.jpg)
 
 [View Resume](/assets/Winfred_Wairimu_CV.pdf)
 
