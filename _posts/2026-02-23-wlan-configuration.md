@@ -1,6 +1,6 @@
 ---
 title: "WLAN Configuration Lab"
-date: 2026-02-25
+date: 2026-02-23
 categories: [Lab Challenges, Networking]
 tags: [Cisco, WLAN, Wi-Fi, Security]
 ---
