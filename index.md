@@ -3,12 +3,8 @@ layout: page
 title: Home
 permalink: /
 ---
+<img src="/assets/images.png" alt="Avatar" width="260" style="border-radius: 12px;">
 # Hi, I’m Wairimu Wanjohi
-
-<img src="/assets/home.jpg" alt="Avatar"
-     width="220"
-     align="right"
-     style="margin-left: 20px; border-radius: 12px;">
      
 **Cybersecurity Analyst | NOC Engineer | Cloud Security | Software Developer**
 
