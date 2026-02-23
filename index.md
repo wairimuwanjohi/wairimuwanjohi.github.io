@@ -8,7 +8,10 @@ permalink: /
 
 I build secure networks, analyze threats, and develop web solutions.
 
-![Avatar](/assets/images.jpg)
+<img src="/assets/home.jpg" alt="Avatar"
+     width="220"
+     align="right"
+     style="margin-left: 20px; border-radius: 12px;">
 
 [View Resume](/assets/Winfred_Wairimu_CV.pdf)
 
