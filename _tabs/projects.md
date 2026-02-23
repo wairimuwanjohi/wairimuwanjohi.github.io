@@ -11,7 +11,7 @@ Designed and secured a segmented enterprise network using VLANs, trunking, and p
 - Implemented switch port security
 - Verified network isolation and connectivity
 
-**Read full write-up:** [View Project](/posts/vlan-secure-switch/)
+**Read full write-up:** [View Project](/posts/2026-02-23-vlan-switch-security.md)
 
 ## Network Traffic Analysis — HTB Lab
 
@@ -21,7 +21,7 @@ Analyzed captured network traffic to identify suspicious activity and indicators
 - Identified malicious communication patterns
 - Documented findings and mitigation steps
 
-**Read full write-up:** [View Project](/posts/network-traffic-analysis/)
+**Read full write-up:** [View Project](/posts/2026-02-23-network-traffic-analysis.md)
 
 ## Secure WLAN Deployment & Configuration
 
@@ -32,4 +32,4 @@ Designed and implemented a secure wireless LAN, applying encryption and access c
 - Connected wireless clients and verified network access  
 - Tested connectivity and security posture  
 
-**Read full write-up:** [View Project](/posts/wlan-configuration/)
+**Read full write-up:** [View Project](/posts/2026-02-23-wlan-configuration.md)
