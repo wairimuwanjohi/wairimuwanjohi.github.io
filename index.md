@@ -8,28 +8,24 @@ permalink: /
 
 <div style="flex: 1; min-width: 260px;">
 
-## Hi, I’m Wairimu Wanjohi
-
-
-## Cybersecurity Analyst • NOC Engineer • Cloud Security • Software Developer
-
-
-I secure networks, analyze threats, and build resilient systems.  
-Passionate about blue-team operations, network defense, and real-world cyber challenges.
+<h1>Hi, I’m Wairimu Wanjohi</h1>
+<h2>Cybersecurity Analyst • NOC Engineer • Cloud Security • Software Developer</h2>
+<p>I secure networks, analyze threats, and build resilient systems.  
+Passionate about blue-team operations, network defense, and real-world cyber challenges.</p>
 
 <div style="margin-top: 18px;">
 
 <a href="/projects/" style="padding: 10px 18px; background:#2563eb; color:white; border-radius:8px; text-decoration:none; font-weight:600;">
 View Projects
-</a><br>
+</a><br><br>
 
 <a href="/assets/Winfred_Wairimu_CV.pdf" style="padding: 10px 18px; margin-left:10px; border:2px solid #2563eb; border-radius:8px; text-decoration:none; font-weight:600;">
 Download CV
-</a><br>
+</a><br><br>
 
 <a href="mailto:wwwanjohi56@gmail.com" style="padding: 10px 18px; margin-left:10px; border:2px solid #22c55e; border-radius:8px; text-decoration:none; font-weight:600;">
 Contact Me
-</a><br>
+</a>
 
 </div>
 
