@@ -1,6 +1,7 @@
 ---
-layout: home
-title: "Home"
+layout: page
+title: Home
+permalink: /
 ---
 
 <div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
