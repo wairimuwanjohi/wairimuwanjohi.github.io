@@ -8,9 +8,11 @@ permalink: /
 
 <div style="flex: 1; min-width: 260px;">
 
-# Hi, I’m Wairimu Wanjohi 
+## Hi, I’m Wairimu Wanjohi
+
 
 ## Cybersecurity Analyst • NOC Engineer • Cloud Security • Software Developer
+
 
 I secure networks, analyze threats, and build resilient systems.  
 Passionate about blue-team operations, network defense, and real-world cyber challenges.
